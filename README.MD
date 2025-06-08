@@ -2,9 +2,9 @@
 
 This project [HiveBox](https://devopsroadmap.io/projects/hivebox/) provided by the [Dynamic DevOps Roadmap](https://devopsroadmap.io/getting-started/) is lightweight tool to help beekeepers with their chores by tracking the environmental sensor data.
 
-##Phases
+## Phases
 
-###Phase 2
+### Phase 2
 1. Create a function that prints the current app version.
 2. Create a Dockerfile for the project.
 
