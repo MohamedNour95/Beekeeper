@@ -10,7 +10,7 @@ This project [HiveBox](https://devopsroadmap.io/projects/hivebox/) provided by t
 
 ```bash
 #Build the image using the follwoing command
-docker docker build -t beekeeper:0.0.1 .
+docker build -t beekeeper:0.0.1 .
 #Run the container using the following command
 docker run --rm beekeeper:0.0.1
 ```
